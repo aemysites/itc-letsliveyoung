@@ -1,8 +1,8 @@
+/* stylelint-disable no-descending-specificity */
 .accordion details {
   border: 1px solid #dadada;
 }
 
-/* stylelint-disable-next-line no-descending-specificity */
 .accordion details + details {
   margin-top: 24px;
 }
@@ -58,4 +58,119 @@
 .accordion details[open] .accordion-item-body {
   border-top: 1px solid #dadada;
   background-color: var(--background-color);
+}
+
+
+.accordion.accordion10 {
+  /* Center block and set max width for desktop, with flexible side margins */
+  max-width: 680px;
+  margin: 40px auto;
+  padding: 0;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.accordion.accordion10 details {
+  width: 100%;
+  background: #F6E2B7;
+  border-radius: 12px;
+  border: none;
+  margin: 0;
+  box-shadow: none;
+  overflow: hidden;
+
+  /* Ensure items don't overlap visually */
+  transition: box-shadow 0.18s;
+}
+
+.accordion.accordion10 details + details {
+  margin-top: 12px;
+}
+
+.accordion.accordion10 summary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 28px 40px 28px 44px; /* top right bottom left */
+  cursor: pointer;
+  color: #22211C;
+  font-size: 18px;
+  font-weight: 500;
+  background: transparent;
+  border: none;
+  min-height: 36px;
+  line-height: 1.3;
+  box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  user-select: none;
+  position: relative;
+  gap: 24px;
+}
+
+/* Remove default details marker for supported browsers */
+.accordion.accordion10 summary::-webkit-details-marker,
+.accordion.accordion10 summary::marker {
+  display: none;
+}
+
+/* If a chevron icon is included in HTML, make sure it is sized and aligned well */
+.accordion.accordion10 summary svg,
+.accordion.accordion10 summary .icon,
+.accordion.accordion10 summary img,
+.accordion.accordion10 summary i {
+  width: 24px;
+  height: 24px;
+  min-width: 24px;
+  min-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 16px;
+  color: #22211C;
+}
+
+/* Accordion item body: align answer text with question padding */
+.accordion.accordion10 .accordion-item-body,
+.accordion.accordion10 details .accordion-item-body,
+.accordion.accordion10 details div {
+  padding: 0 44px 28px;
+  color: #22211C;
+  font-size: 16px;
+  line-height: 1.6;
+  box-sizing: border-box;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (width <= 700px) {
+  .accordion.accordion10 {
+    max-width: 99vw;
+    margin: 24px auto;
+  }
+
+  .accordion.accordion10 summary {
+    padding: 16px 12px 16px 14px;
+    font-size: 16px;
+    gap: 12px;
+  }
+
+  .accordion.accordion10 .accordion-item-body,
+  .accordion.accordion10 details .accordion-item-body,
+  .accordion.accordion10 details div {
+    padding: 0 14px 16px;
+  }
+
+  .accordion.accordion10 summary svg,
+  .accordion.accordion10 summary .icon,
+  .accordion.accordion10 summary img,
+  .accordion.accordion10 summary i {
+    margin-left: 8px;
+    width: 20px;
+    height: 20px;
+    min-width: 20px;
+    min-height: 20px;
+  }
 }
