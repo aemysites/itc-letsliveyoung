@@ -71,19 +71,15 @@
 
 
 .columns.columns4 {
-  /* Outer block: right corners only rounded, no extra border or shadow */
   border-top-right-radius: 32px;
   border-bottom-right-radius: 32px;
   overflow: hidden;
   background: transparent;
   margin: 0 auto;
   box-sizing: border-box;
-
-  /* Remove unwanted spacing if present */
 }
 
 .columns.columns4 .columns {
-  /* Lay out columns horizontally, equal height, no gap */
   display: flex;
   flex-direction: row;
   align-items: stretch;
@@ -92,7 +88,6 @@
 }
 
 .columns.columns4 .columns div {
-  /* Ensure columns fill available space */
   min-height: 0;
   min-width: 0;
   flex: 1 1 0%;
@@ -103,7 +98,6 @@
   padding: 0;
 }
 
-/* Left column: beige background, generous padding, left-aligned, square left corners */
 .columns.columns4 .columns div:first-child {
   background: #F8F1E7;
   padding: 48px 40px;
@@ -114,7 +108,6 @@
   min-width: 0;
 }
 
-/* Improved heading/paragraph spacing and sizing */
 .columns.columns4 .columns div:first-child p:first-child {
   color: #222;
   font-size: 32px;
@@ -131,7 +124,6 @@
   line-height: 1.6;
 }
 
-/* Right column: full background image, rounded right corners only */
 .columns.columns4 .columns div:last-child {
   position: relative;
   border-radius: 0 32px 32px 0;
@@ -141,15 +133,10 @@
   padding: 0;
   align-items: stretch;
   justify-content: center;
-
-  /* Fill available space */
   flex: 1 1 0%;
-
-  /* Add background image here */
   background: url('YOUR_IMAGE_URL_HERE') center center / cover no-repeat;
 }
 
-/* Ensure both columns are exactly equal width on desktop */
 @media (width >= 900px) {
   .columns.columns4 .columns div {
     flex: 1 1 0%;
@@ -158,7 +145,6 @@
   }
 }
 
-/* Responsive: stack vertically on small screens */
 @media (width <= 900px) {
   .columns.columns4 {
     border-radius: 0 0 32px 32px;
@@ -179,4 +165,80 @@
     min-height: 200px;
     background-position: center 30%;
   }
+}
+
+
+.columns-wrapper {
+  background: #943A73;
+  padding: 32px 40px;
+}
+
+.columns.columns-2-cols > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; /* Vertically center content */
+  gap: 48px;
+  min-height: 120px;   /* Adjust as needed for compactness */
+}
+
+.columns.columns-2-cols > div > div:first-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+  color: #fff;
+}
+
+.columns.columns-2-cols > div > div:first-child p {
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.columns.columns-2-cols > div > div:first-child p:first-child {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.columns.columns-2-cols > div > div:first-child p:not(:first-child) {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.columns.columns-2-cols > div > div:last-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.columns.columns-2-cols > div > div:last-child p:first-child {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.columns.columns-2-cols > div > div:last-child p:first-child picture {
+  display: flex;
+  border-radius: 50%;
+  background: #fff;
+  width: 40px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.columns.columns-2-cols > div > div:last-child p:first-child img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.columns.columns-2-cols > div > div:last-child p:last-child {
+  color: #fff;
+  font-size: 0.875rem;
+  margin: 0;
 }
