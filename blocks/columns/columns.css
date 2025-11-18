@@ -68,3 +68,115 @@
   color: #232323;
   line-height: 1.5;
 }
+
+
+.columns.columns4 {
+  /* Outer block: right corners only rounded, no extra border or shadow */
+  border-top-right-radius: 32px;
+  border-bottom-right-radius: 32px;
+  overflow: hidden;
+  background: transparent;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  /* Remove unwanted spacing if present */
+}
+
+.columns.columns4 .columns {
+  /* Lay out columns horizontally, equal height, no gap */
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: stretch;
+  min-height: 320px;
+}
+
+.columns.columns4 .columns div {
+  /* Ensure columns fill available space */
+  min-height: 0;
+  min-width: 0;
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+/* Left column: beige background, generous padding, left-aligned, square left corners */
+.columns.columns4 .columns div:first-child {
+  background: #F8F1E7;
+  padding: 48px 40px;
+  border-radius: 0;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 0;
+}
+
+/* Improved heading/paragraph spacing and sizing */
+.columns.columns4 .columns div:first-child p:first-child {
+  color: #222;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 18px;
+  margin-top: 0;
+  line-height: 1.15;
+}
+
+.columns.columns4 .columns div:first-child p:not(:first-child) {
+  color: #444;
+  font-size: 16px;
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+/* Right column: full background image, rounded right corners only */
+.columns.columns4 .columns div:last-child {
+  position: relative;
+  border-radius: 0 32px 32px 0;
+  overflow: hidden;
+  min-width: 0;
+  min-height: 320px;
+  padding: 0;
+  align-items: stretch;
+  justify-content: center;
+
+  /* Fill available space */
+  flex: 1 1 0%;
+
+  /* Add background image here */
+  background: url('YOUR_IMAGE_URL_HERE') center center / cover no-repeat;
+}
+
+/* Ensure both columns are exactly equal width on desktop */
+@media (width >= 900px) {
+  .columns.columns4 .columns div {
+    flex: 1 1 0%;
+    min-width: 0;
+    min-height: 0;
+  }
+}
+
+/* Responsive: stack vertically on small screens */
+@media (width <= 900px) {
+  .columns.columns4 {
+    border-radius: 0 0 32px 32px;
+  }
+
+  .columns.columns4 .columns {
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  .columns.columns4 .columns div:first-child {
+    padding: 32px 20px;
+    border-radius: 0;
+  }
+
+  .columns.columns4 .columns div:last-child {
+    border-radius: 0 0 32px 32px;
+    min-height: 200px;
+    background-position: center 30%;
+  }
+}
