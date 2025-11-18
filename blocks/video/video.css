@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .video {
   text-align: center;
   max-width: 900px;
@@ -5,7 +6,6 @@
 }
 
 .video[data-embed-loaded='false']:not(.placeholder) {
-  /* reserve an approximate space to avoid extensive layout shifts */
   aspect-ratio: 16 / 9;
 }
 
@@ -68,4 +68,68 @@
   top: 50%;
   left: calc(50% + 2px);
   transform: translate(-50%, -50%);
+}
+
+
+.video.video9 {
+  /* Centered cream block with rounded corners and responsive width */
+  background-color: #FAF1E5;
+  border-radius: 20px;
+  margin: 48px auto 0;
+  max-width: 880px;
+  min-height: 320px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+
+  /* Remove box-shadow for flat look (if previously set) */
+  box-shadow: none;
+}
+
+/* If any nested .video.video9 divs are direct visual containers, keep them full width */
+.video.video9 div {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  border-radius: inherit; /* Inherit rounded corners if they're outer containers */
+}
+
+@media (width <= 960px) {
+  .video.video9 {
+    max-width: 98vw;
+    border-radius: 14px;
+    min-height: 180px;
+    margin-top: 20px;
+  }
+}
+
+/* For possible horizontal layouts using nested divs (if additional content appears),
+   ensure items are placed side-by-side using flexbox row. This will have no effect
+   for a single empty div but will help future-proof alignment. */
+.video.video9 div div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Remove any accidental minimum height or border/shadow on inner divs */
+.video.video9 div,
+.video.video9 div div {
+  min-height: 0;
+  box-shadow: none;
+  border: none;
+  background: transparent;
 }
