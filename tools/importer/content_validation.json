@@ -1,0 +1,2025 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/terms-of-use.html",
+          "urlHash": "5725be78eb80a50965807c4845bac4faa40ffe52",
+          "uuid": "5725be78-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/privacy-policy.html",
+          "urlHash": "69d73d91c8cdb9640b61373f491a233c95f050ea",
+          "uuid": "69d73d91-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        }
+      ],
+      "styles": {
+        "height": 32
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-07-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_8",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/terms-of-use.html",
+          "urlHash": "5725be78eb80a50965807c4845bac4faa40ffe52",
+          "uuid": "5725be78-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-05-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-08-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/privacy-policy.html",
+          "urlHash": "69d73d91c8cdb9640b61373f491a233c95f050ea",
+          "uuid": "69d73d91-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-12-31c7aff5fc25442494b6893cab2aea3ab2bdefd5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_13",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-07-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips Sunfeast farmlite oats and almonds cookies"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_7",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips Sunfeast farmlite oats and almonds cookies"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips farmlite veda digestive high fibre cookies"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_7",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips farmlite veda digestive high fibre cookies"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips Super millet ragi and jowar cookies"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-08-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_7",
+              "differences": [
+                {
+                  "change_type": "insertion",
+                  "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips Super millet ragi and jowar cookies"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "source": "Hero",
+      "target": "Hero (hero2)",
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "#EatHealthy #FeelHealthy #BeHappy Indulge guilt-free in the nourishing blend of Ragi and Jowar Biscuits, enriched with essential nutrients, fiber, and natural goodness from these ancient grains. Savor the delectable taste and embrace a healthier snacking choice with each bite!"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-05-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_7",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Fibre"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "#EatHealthy #FeelHealthy #BeHappy"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "meal"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Indulge"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "plan"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "guilt-free"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Play"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "this"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "the"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "quick"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nourishing"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "game"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "blend of Ragi"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " and "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "tell"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Jowar"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "us"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Biscuits, enriched"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "your"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "favourite"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "meals. Get"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nutrients, fiber, and"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "natural"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "know"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "goodness"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "which"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "from"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "interesting"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "these"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "ancient"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "you"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "grains. Savor"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "can"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "the"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "add"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "delectable"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "taste"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "increase"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "and embrace a healthier snacking"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "your"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "choice"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "overall"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "nutrition! Start"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "each"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Now"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "bite!"
+                }
+              ],
+              "dissimilarity_score": 0.96
+            }
+          ],
+          "similarity_score": 0.040000000000000036
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-05-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Indulge in a Chocolaty Bliss\u200b \u200b Dive into a world of chocolaty goodness with our Super Millets Chocochip Cookies. Made with the finest Ragi and Jowar, and studded with delectable choco chip bits, these cookies offer a delightful blend of flavors and textures. Perfect for satisfying your sweet tooth cravings while enjoying a moment of indulgence."
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Experience the Essence of Veda\u200b Immerse yourself in the rich flavors of Veda with our Digestive Veda Biscuits. Made with a divine blend of natural ingredients including Tulsi, Ginger, Ashwagandha, Cardamom, Mulethi, and wheat fiber, these biscuits offer a unique and enriching snacking experience. Discover the essence of traditional Indian flavors with every bite!\u200b"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Elevate Your Snacking Experience Delight your taste buds with the perfect combination of crunch and flavour. Our Super Millets Ragi & Jowar Cookies are crafted with care, blending the goodness of Ragi and Jowar with crunchy cashew bits. Whether you're craving a mid-day snack or indulging in a sweet treat after dinner, these cookies are sure to satisfy your cravings while providing a wholesome snacking experience."
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_3",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Available Now Click to buy now This product is now available at your nearby stores"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_3",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Available Now Click to buy now This product is now available at your nearby stores"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_3",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Available Now Click to buy now This product is now available at your nearby stores"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/terms-of-use.html",
+          "urlHash": "5725be78eb80a50965807c4845bac4faa40ffe52",
+          "uuid": "5725be78-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/privacy-policy.html",
+          "urlHash": "69d73d91c8cdb9640b61373f491a233c95f050ea",
+          "uuid": "69d73d91-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-00-6072c4e3c146c8950d80494d39eadc1562cb57fb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_3",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Taste the Goodness of Millets\u200b Indulge in the perfect blend of taste and crunch with Sunfeast Farmlite Super Millets Ragi & Jowar Cookies. Made with the goodness of Ragi and Jowar, enhanced with cashew bits for a delightful snack-time treat."
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "cluster": 9,
+      "source": "Video",
+      "target": "Video (video9)",
+      "key": "video9",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-07-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_8",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/terms-of-use.html",
+          "urlHash": "5725be78eb80a50965807c4845bac4faa40ffe52",
+          "uuid": "5725be78-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_2",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-05-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-02-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/privacy-policy.html",
+          "urlHash": "69d73d91c8cdb9640b61373f491a233c95f050ea",
+          "uuid": "69d73d91-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_2",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/privacy-policy.html",
+          "urlHash": "69d73d91c8cdb9640b61373f491a233c95f050ea",
+          "uuid": "69d73d91-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-04-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-06-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_8",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-12-31c7aff5fc25442494b6893cab2aea3ab2bdefd5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_13",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_4",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 10,
+      "source": "Accordion",
+      "target": "Accordion (accordion10)",
+      "key": "accordion10",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-04-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_5",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "What is the Farmlite biscuit range? Sunfeast Farmlite is a better for you biscuit range which comes in 3 ranges \u2013 Millets, Oats and Digestive cookies. Does the Farmlite millet range have any maida? No, the Farmlite Super Millet cookies are made of only ragi and jowar as the base ingredients. The biscuit does not have any added atta or maida. Does the Farmlite oats range have any maida? No, the Farmlite Oats cookies are made of only Aashirvaad Atta and Oats as the base ingredients. The biscuit does not have any added maida. Which of your biscuits has paper packaging? Farmlite Digestive High Fibre 800g comes in a 100% outer paper bag which is the first in the industry"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": ". {"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "."
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/sitemap.html",
+          "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+          "uuid": "34c9e71b-05-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://letsliveyoung.in/terms-of-use.html",
+          "urlHash": "5725be78eb80a50965807c4845bac4faa40ffe52",
+          "uuid": "5725be78-03-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+          "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+          "uuid": "5f5a3c65-01-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-08-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-10-ac528c659ccacfbc1e4bb4346b02d7a37706b5be",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+          "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+          "uuid": "a86f69a0-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-09-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+        }
+      ],
+      "key": "unknown11"
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-11-456c7155d934b69c4c54daa9badc78c9acbca29b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_12",
+              "differences": [],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-01-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-almonds.html",
+          "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+          "uuid": "90764daa-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+          "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+          "uuid": "071fad8a-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+          "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+          "uuid": "32733f60-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/oats-raisins.html",
+          "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+          "uuid": "66ab3be4-03-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products.html",
+          "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+          "uuid": "7b980841-07-d81feb915576ca5e6a209a1c3e7ac6c3132c3e13",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_9__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Elevate Your Snacking Experience\u200b Delight your taste buds with the perfect combination of crunch and flavour. Our Super Millets Ragi & Jowar Cookies are crafted with care, blending the goodness of Ragi and Jowar with crunchy cashew bits. Whether you're craving a mid-day snack or indulging in a sweet treat after dinner, these cookies are sure to satisfy your cravings while providing a wholesome snacking experience."
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/choco-chips.html",
+          "urlHash": "958418e2babb802401170878de75a02b54c61065",
+          "uuid": "958418e2-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_5__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Delight in Chocolaty Crunch\u200b Enjoy the delightful combination of surprising flavours and crunch with Sunfeast Farmlite Super Millets Chocochip Cookies. Made with Ragi and Jowar, infused with delectable choco chip bits for a tasty snack-time indulgence."
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+          "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+          "uuid": "f1a7e467-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://letsliveyoung.in/products/digestive-veda.html",
+          "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+          "uuid": "f1e5eb04-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_5__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Discover the Essence of Veda\u200b Experience the richness of Indian ingredients with Sunfeast Farmlite Digestive Veda Biscuits. Loaded with the goodness of Tulsi, Ginger, Ashwagandha, Cardamom, Mulethi, and wheat fiber, it's more than just a digestive biscuit.\u200b"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+          "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+          "uuid": "fd4c6b10-04-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_5__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Taste the Goodness of Millets\u200b Indulge in the perfect blend of taste and crunch with Sunfeast Farmlite Super Millets Ragi & Jowar Cookies. Made with the goodness of Ragi and Jowar, enhanced with cashew bits for a delightful snack-time treat."
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+      "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+      "uuid": "071fad8a-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/oats-chocolate.html",
+      "urlHash": "071fad8a23a39ad8431f59d22a338e8ddde4166c",
+      "uuid": "071fad8a-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+      "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+      "uuid": "32733f60-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-family-pack.html",
+      "urlHash": "32733f60450400e9cca0bdbec05149cdba1325aa",
+      "uuid": "32733f60-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/sitemap.html",
+      "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+      "uuid": "34c9e71b-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://letsliveyoung.in/sitemap.html",
+      "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+      "uuid": "34c9e71b-04-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://letsliveyoung.in/sitemap.html",
+      "urlHash": "34c9e71b1e0e8f0d518ef9f940cfb3037182ee2e",
+      "uuid": "34c9e71b-06-8e17db68db3c9dea4125cdeab6a148682079b82c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://letsliveyoung.in/terms-of-use.html",
+      "urlHash": "5725be78eb80a50965807c4845bac4faa40ffe52",
+      "uuid": "5725be78-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+      "urlHash": "5f5a3c6558d4a7ba2a69129420555cf944e4cb69",
+      "uuid": "5f5a3c65-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/oats-raisins.html",
+      "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+      "uuid": "66ab3be4-04-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/oats-raisins.html",
+      "urlHash": "66ab3be4f3ebe6fb2a14976c2586d84a6d20a83b",
+      "uuid": "66ab3be4-06-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/privacy-policy.html",
+      "urlHash": "69d73d91c8cdb9640b61373f491a233c95f050ea",
+      "uuid": "69d73d91-02-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products.html",
+      "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+      "uuid": "7b980841-08-20141edd6790a2c8c4e6d342f03fbb26fd74846a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products.html",
+      "urlHash": "7b9808418cc4656e0e7cc9e058c5fa6b5a24ce0f",
+      "uuid": "7b980841-09-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/oats-almonds.html",
+      "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+      "uuid": "90764daa-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/oats-almonds.html",
+      "urlHash": "90764daa00d0b346567564ac902d686db8e00b85",
+      "uuid": "90764daa-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/choco-chips.html",
+      "urlHash": "958418e2babb802401170878de75a02b54c61065",
+      "uuid": "958418e2-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/choco-chips.html",
+      "urlHash": "958418e2babb802401170878de75a02b54c61065",
+      "uuid": "958418e2-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+      "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+      "uuid": "a86f69a0-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/nuts-digestive.html",
+      "urlHash": "a86f69a0691348b0663252c00e0a243b28e8c861",
+      "uuid": "a86f69a0-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+      "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+      "uuid": "f1a7e467-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-high-fiber.html",
+      "urlHash": "f1a7e467fe28c4207b9ba05949cc1b6f332fa77f",
+      "uuid": "f1a7e467-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-veda.html",
+      "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+      "uuid": "f1e5eb04-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-veda.html",
+      "urlHash": "f1e5eb048249abaa6856f5254b41e17ae8ebdb70",
+      "uuid": "f1e5eb04-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+      "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+      "uuid": "fd4c6b10-05-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+      "urlHash": "fd4c6b10f59466f0c214a08e83f0545f73eaebd5",
+      "uuid": "fd4c6b10-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://letsliveyoung.in/frequently-asked-questions.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "All your questions Sunfeast Farm Lite Frequently Asked Questions What is the Farmlite biscuit range? Sunfeast Farmlite is a better for you biscuit range which comes in 3 ranges \u2013 Millets, Oats and Digestive cookies. Does the Farmlite millet range have any maida? No, the Farmlite Super Millet cookies are made of only ragi and jowar as the base ingredients. The biscuit does not have any added atta or maida. Does the Farmlite oats range have any maida? No, the Farmlite Oats cookies are made of only Aashirvaad Atta and Oats as the base ingredients. The biscuit does not have any added maida. Which of your biscuits has paper packaging? Farmlite Digestive High Fibre 800g comes in a 100% outer paper bag which is the first in the industry"
+        },
+        {
+          "change_type": "deletion",
+          "text": ". { Follow us on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "."
+        }
+      ],
+      "similarity_score": 0.9931953838230891
+    },
+    {
+      "url": "https://letsliveyoung.in/privacy-policy.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Privacy Policy ITC Limited welcomes you to its website and looks forward to a meaningful interaction with you. ITC Limited respects an individual's right to privacy. This policy lays down our practices with respect to confidentiality and disclosure of personal information. Please familiarize yourself with our privacy practices, as given below. Should you choose to share your personal information with ITC Limited, it will be assumed that you have no objection to the terms of this privacy policy. Collection of Personal Information ITC Limited collects personal information only when it is required for business purposes. While collecting any personal information, ITC Limited indicates the purpose of collection of such information and obtains the consent of the provider of the information in writing. ITC Limited gives the person providing the information an option of not providing the information. He also has the option of withdrawing his consent given earlier. In such cases, ITC Limited may choose not to provide any services/supply goods for which the information was necessary. While collecting information, ITC Limited or any entity authorized on its behalf to collect information takes such steps as are, in the circumstances, reasonable to ensure that the person providing the information has the knowledge of - the fact that the information is being collected the purpose for which the information is being collected; and the intended recipients of the information The providers of information are permitted, as and when requested by them, to review the information they had provided. Confidentiality and Disclosure of personal information The terms of confidentiality and disclosure of personal information will be recorded in the non-disclosure agreement that may be entered into with the provider of the information. ITC Limited has also adopted reasonable security practices and procedures comprising of managerial, technical, operational and physical security control measures with a view to ensure confidentiality and prevent unauthorized disclosure of personal information. ITC Limited uses the personal information only for the purpose for which the same has been furnished. ITC Limited does not retain information after the purpose for which it is furnished is accomplished unless the same is required to be retained under any law in force or for audit purposes. In such cases also, confidentiality of such information is maintained. Policy for Website usage Any personal information shared by you in this Website shall be kept confidential in accordance with ITC Limited's reasonable security practices and procedures. Personal information, shared by you, shall be used for doing the intended business with you. ITC Limited assures you that in the event of your personal information being shared by ITC Limited with its subsidiaries, business associates etc., such sharing of information shall be for the purpose of doing the intended business with you. You hereby grant your consent to ITC Limited to share such information with its subsidiaries, business associates etc. ITC Limited reserves its rights to collect, analyse and disseminate aggregate site usage patterns of all its visitors with a view to enhance its services to the visitors. This includes sharing the information with its subsidiaries and business associates as a general business practice. In the course of its business, ITC Limited may hold on-line contests and surveys as permitted by law and it reserves its right to use and disseminate the information so collected to enhance its services to the visitors. This shall also include sharing the information with its subsidiaries and business associates as a general business practice. Cookies: - To personalize your experience on ITC Limited's Website or to support one of its promotions, ITC Limited may assign your computer browser a unique random number (cookie). \"Cookies\" enhance website performance in important ways like personalizing your experience, or making your visit more convenient. Your privacy and security will not be compromised when you accept a \"cookie\" from ITC Limited's Website. ITC Limited shall not be responsible in any manner whatsoever for any violation or misuse of your personal information by unauthorised persons consequent to misuse of the internet environment. Grievance Officer In accordance with the Information Technology Act, 2000 and the rules framed thereunder, the name and contact details of the Grievance Officer are provided below: Head of Corporate Human Resources ITC Limited, 37 JL Nehru Road, Kolkata - 700071 webmaster@itc.in +913322889371 9AM - 5PM (on all working days) Changes to the Policy ITC Limited reserves its right to revise this privacy policy from time to time at its sole discretion. Such policy will be available on the ITC Limited's Website. All words and expressions used herein and not defined, but defined in the Information Technology Act, 2000 and/or the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 shall have the meanings respectively assigned to them thereunder"
+        },
+        {
+          "change_type": "deletion",
+          "text": ". Follow us on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "."
+        }
+      ],
+      "similarity_score": 0.9997573387558679
+    },
+    {
+      "url": "https://letsliveyoung.in/products.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "#EatHealthy #FeelHealthy #BeHappy Indulge guilt-free in the nourishing blend of Ragi and Jowar Biscuits, enriched with essential nutrients, fiber, and natural goodness from these ancient grains. Savor the delectable taste and embrace a healthier snacking choice with each bite! Taste the Goodness of Millets\u200b Indulge in the perfect blend of taste and crunch with Sunfeast Farmlite Super Millets Ragi & Jowar Cookies. Made with the goodness of Ragi and Jowar, enhanced with cashew bits for a delightful snack-time treat. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "static /content/farmlite/qa-testing/product-range/ragi----jowar /content/farmlite/qa-testing/product-range/chocochips Fibre meal plan "
+        },
+        {
+          "change_type": "equal",
+          "text": "Play this quick game and tell us your favourite meals. Get to know which interesting cookie you can add to increase your overall nutrition! Start Now Elevate Your Snacking Experience\u200b Delight your taste buds with the perfect combination of crunch and flavour. Our Super Millets Ragi & Jowar Cookies are crafted with care, blending the goodness of Ragi and Jowar with crunchy cashew bits. Whether you're craving a mid-day snack or indulging in a sweet treat after dinner, these cookies are sure to satisfy your cravings while providing a wholesome snacking experience. Connect with us Join the conversation Stay updated with our latest happenings on social media"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Follow us on"
+        }
+      ],
+      "similarity_score": 0.9534509116715009
+    },
+    {
+      "url": "https://letsliveyoung.in/products/choco-chips.html",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips Sunfeast farmlite oats and almonds cookies "
+        },
+        {
+          "change_type": "equal",
+          "text": "Available Now Click to buy now This product is now available at your nearby stores Delight in Chocolaty Crunch\u200b Enjoy the delightful combination of surprising flavours and crunch with Sunfeast Farmlite Super Millets Chocochip Cookies. Made with Ragi and Jowar, infused with delectable choco chip bits for a tasty snack-time indulgence. Indulge in a Chocolaty Bliss\u200b \u200b Dive into a world of chocolaty goodness with our Super Millets Chocochip Cookies. Made with the finest Ragi and Jowar, and studded with delectable choco chip bits, these cookies offer a delightful blend of flavors and textures. Perfect for satisfying your sweet tooth cravings while enjoying a moment of indulgence. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Follow"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Products > Super Millets"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "us"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Ragi & Jowar > Super"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Millets Chocochips Sunfeast Farmlite Choco Chip Cookies"
+        }
+      ],
+      "similarity_score": 0.8962104929522147
+    },
+    {
+      "url": "https://letsliveyoung.in/products/digestive-veda.html",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips farmlite veda digestive high fibre cookies "
+        },
+        {
+          "change_type": "equal",
+          "text": "Available Now Click to buy now This product is now available at your nearby stores Discover the Essence of Veda\u200b Experience the richness of Indian ingredients with Sunfeast Farmlite Digestive Veda Biscuits. Loaded with the goodness of Tulsi, Ginger, Ashwagandha, Cardamom, Mulethi, and wheat fiber, it's more than just a digestive biscuit.\u200b Experience the Essence of Veda\u200b Immerse yourself in the rich flavors of Veda with our Digestive Veda Biscuits. Made with a divine blend of natural ingredients including Tulsi, Ginger, Ashwagandha, Cardamom, Mulethi, and wheat fiber, these biscuits offer a unique and enriching snacking experience. Discover the essence of traditional Indian flavors with every bite!\u200b "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Follow"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Products > Super"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "us"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Millets"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Ragi & Jowar > Super Millets Chocochips Sunfeast Farmlite Natural Ingredients Veda Biscuits"
+        }
+      ],
+      "similarity_score": 0.8518163858871253
+    },
+    {
+      "url": "https://letsliveyoung.in/products/ragi-jowar.html",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "Products > Super Millets Ragi & Jowar > Super Millets Chocochips Super millet ragi and jowar cookies "
+        },
+        {
+          "change_type": "equal",
+          "text": "Available Now Click to buy now This product is now available at your nearby stores Taste the Goodness of Millets\u200b Indulge in the perfect blend of taste and crunch with Sunfeast Farmlite Super Millets Ragi & Jowar Cookies. Made with the goodness of Ragi and Jowar, enhanced with cashew bits for a delightful snack-time treat. Elevate Your Snacking Experience Delight your taste buds with the perfect combination of crunch and flavour. Our Super Millets Ragi & Jowar Cookies are crafted with care, blending the goodness of Ragi and Jowar with crunchy cashew bits. Whether you're craving a mid-day snack or indulging in a sweet treat after dinner, these cookies are sure to satisfy your cravings while providing a wholesome snacking experience. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Follow"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Products > Super"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "us"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Millets"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Ragi & Jowar > Super Millets Chocochips Sufeast farmlite millets ragi and jowar cookies online"
+        }
+      ],
+      "similarity_score": 0.9002608491090471
+    },
+    {
+      "url": "https://letsliveyoung.in/sitemap.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Navigate and Discover Delights Sitemap Buy Millet Cookies & Digestive Biscuits Online | Sunfeast Farmlite Buy Nutritious Ragi Jowar Biscuits Cookies | Sunfeast Farmlite Order Healthy Ragi & Jowar Choco Chip Cookies | Sunfeast Farmlite Order Healthy Oats & Almond Cookies Online | Sunfeast Farmlite Buy Oats & Chocolate Cookies Online | Sunfeast Farmlite Order Oats & Raisins Cookies Online | Sunfeast Farmlite Buy High Fiber Digestive Biscuits Online | Sunfeast Farmlite Buy Multigrain Family Pack Digestive Biscuits Online | Sunfeast Farmlite Order High-Fibre Veda Digestive Biscuits Online | Sunfeast Farmlite Buy Nuts Digestive Biscuits with Almonds & Cashews| Sunfeast Farmlite Discover Sunfeast Farmlite Story - Journey of Goodness Contact Sunfeast Farmlite | Get in Touch with Us Sunfeast Farmlite in the News | Media Coverage Terms of use FAQs Privacy Policy"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Follow us on"
+        }
+      ],
+      "similarity_score": 0.9960005288387771
+    },
+    {
+      "url": "https://letsliveyoung.in/terms-of-use.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Terms of Use 1 Introduction 1.1 www.letsliveyoung.in and all associated sites and applications linked with the same (the \u201cPlatform\u201d) is operated by ITC Limited (including its directors, full time employees, subsidiaries and affiliates, collectively the \u201cCompany\u201d). The Company, through its Platform offers to view and download video call backgorunds available from time to time, on the Platform (the \u201cServices\u201d). 1.2 These terms and conditions (the \u201cTerms of Service\u201d) shall apply to all users of the Platform (collectively, the \u201cUsers\u201d). By registering on, browsing, downloading, using or accessing any part of the Platform or utilising the Services, the Users agree to be bound by the Terms of Service, including any additional or modified terms and conditions and policies in relation to the Platform or any future service that may be offered by the Company. If at any time the Users do not accept or agree to any or all of the Terms of Service, they may not access the Platform or use any of the Services. 1.3 The Users can review the most current version of the Terms of Service at any time on this page. The Company reserves the right to unilaterally update, change or replace any part of these Terms of Service by posting updates or changes to the Platform. It is the responsibility of the Users to check this page periodically for changes. The Users continued use of or access to the Platform following the posting of any changes constitutes acceptance of those changes. 1.4 These Terms of Service govern the use of the Platform, by installing, downloading or even merely using the Platform, the Users shall be contracting with the Company and signify their acceptance to the Terms of Service and other policies of the Company (the \u201cPolicies\u201d) as posted on the Platform from time to time, which takes effect on the date on which the Platform is downloaded and creates a legally binding arrangement to abide by the same. 2 Eligibility 2.1 Accepting the Terms of Service will constitute a legal contract between the User and the Company. Consequently, any User who is \u201cincompetent to contract\u201d within the meaning of the Indian Contract Act, 1872 including minors, un-discharged insolvents etc. is not eligible to use the Platform. Only individuals who are eighteen (18) years of age or older may use the Platform and avail Services. The Company reserves the right to terminate the Users account and / or deny access to the Platform if it is brought to the Company\u2019s notice that the Users are under the age of eighteen (18) years. 2.2 Each User represent that they are competent to contract in terms of the Indian Contract Act, 1872 and has not been disqualified or whose account has not been previously suspended or removed by the Company from the Platform. Each User also represents and warrants that the Users have the right, authority and capacity to be bound the Terms of Service. 2.3 The Company permits all Users to access, view, download the contents of the Platform without registration on the Platform. By using the Platform, or availing the Services, Users automatically become members and agree to the Terms of Service. The membership is limited to the purpose and is subject to the acceptance of and adherence with the Terms of Service by the Users. So long as the Users abide by and accepts the Terms of Service the Company grants the Users with a non-transferrable, limited, non-exclusive and revocable privilege register and use the Platform and avail the Services. 3 Use of the Platform 3.1 The Users agree, undertake and confirm that the Users\u2019 use of the Platform shall be strictly governed by these Terms of Service. Further the Users shall not host, display, upload, download, modify, publish, transmit, update or share any information which: 3.1.1 is grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libellous, slanderous, criminally inciting or invasive of another\u2019s privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatsoever; or unlawfully threatening or unlawfully harassing including but not limited to \u201cindecent representation of women\u201d within the meaning of the Indecent Representation of Women (Prohibition) Act, 1986 ; 3.1.2 is patently offensive to the online community, such as sexually explicit content, or content that promotes obscenity, paedophilia, racism, bigotry, hatred or physical harm of any kind against any group or individual; 3.1.3 harasses or advocates harassment of another person, including children; 3.1.4 infringes upon or violates any third party\u2019s rights including, but not limited to, intellectual property rights, rights of privacy (including without limitation unauthorized disclosure of a person\u2019s name, email address, physical address or phone number) or rights of publicity; 3.1.5 promotes an illegal or unauthorized copy of another person\u2019s copyrighted work, such as providing pirated computer programs or links to them, providing information to circumvent manufacture-installed copy-protect devices; 3.1.6 tries to gain unauthorized access or exceeds the scope of authorized access to the Platform or to the profiles, blogs, communities, account information, or other areas of the Platform or solicits passwords or personal identifying information for commercial or unlawful purposes from other Users; 3.1.7 interferes with another User\u2019s use and enjoyment of the Platform or any third party users enjoyment of similar services; 3.1.8 refers to any website or URL that, in our sole discretion, contains material that is inappropriate for the Platform or any other website, contains content that would be prohibited or violates the spirit of these Terms of Service; 3.1.9 violates any law for the time being in force; 3.1.10 impersonate another person; 3.1.11 threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognisable offence or prevents investigation of any offence or is insulting other nation; 3.1.12 contains software viruses or other computer programming routines that may damage, detrimentally interfere with, diminish value of, surreptitiously intercept or expropriate any system, data or personal information; and 3.1.13 directly or indirectly, offers, attempts to offer, trades or attempts to trade in any item, the dealing of which is prohibited or restricted in any manner under the provisions of any applicable law, rule, regulation or guideline for the time being in force. 3.2 By using the Platform, the Users represent and warrant that: 3.2.1 All information submitted by the Users are truthful, lawful and accurate; 3.2.2 The User\u2019s use of the Platform shall be solely for their personal use; 3.2.3 The Users will not submit, post, upload, distribute, or otherwise make available or transmit any content that: (a) is defamatory, abusive, harassing, insulting, threatening, or that could be deemed to be stalking or constitute an invasion of a right of privacy of another person; (b) is bigoted, hateful, or racially or otherwise offensive; (c) is violent, vulgar, obscene, pornographic or otherwise sexually explicit; (d) is illegal or encourages or advocates illegal activity or the discussion of illegal activities with the intent to commit them; 3.2.4 All necessary licenses, consents, permissions and rights are owned by the Users and there is no need for any payment or permission or authorization required from any other party or entity to use, distribute or otherwise exploit in all manners permitted by these Terms of Service and Privacy Policy, all trademarks, copyrights, patents, trade secrets, privacy and publicity rights and/or other proprietary rights contained in any content that the Users submit, post, upload, distribute or otherwise transmit or make available; 3.2.5 The Users will not use the Platform in any way that is unlawful, or harms the Company or any other person or entity; 3.2.6 The Users will not post, submit, upload, distribute, or otherwise transmit or make available any software or other computer files that contain a virus or other harmful component, or otherwise impair or damage the Platform or any connected network, or otherwise interfere with any person or entity\u2019s use or enjoyment of the Platform. 3.2.7 The Users will not use another person\u2019s name, likeness, voice, image or photograph or impersonate any person or entity or misrepresent their identity or affiliation with any person or entity. 3.2.8 The Users will not delete or modify any content of the Platform, including but not limited to, disclaimers or proprietary notices such as copyright or trademark symbols, logos. 3.2.9 The Users will not post or contribute any information or data that may be obscene, indecent, pornographic, vulgar, profane, racist, sexist, discriminatory, offensive, derogatory, harmful, harassing, threatening, embarrassing, malicious, abusive, hateful, menacing, defamatory, untrue or political or contrary to our interest. 3.2.10 The Users shall not access the Platform without authority or use the Platform in a manner that damages, interferes or disrupts, any part of the Platform or any equipment or any network on which the Platform is stored or any equipment of any third party; 3.2.11 The Users release and fully indemnify the Company and/or any of its officers and representatives from any cost, damage, liability or other consequence of any of the actions of the Users of the Platform and specifically waive any claims that the Users may have in this behalf under any applicable laws of India. Notwithstanding its reasonable efforts in that behalf, the Company cannot take responsibility or control the information provided by other Users which is made available on the Platform. 3.3 The Users shall not attempt to gain unauthorized access to any portion or feature of the Platform, or any other systems or networks connected to the Platform by any means. The Users shall not probe, scan or test the vulnerability of the Platform nor breach the security or authentication measures on the Platform or any network connected to the Platform. 3.4 The Users agree not to use any device, software or routine to interfere or attempt to interfere with the proper working of the Platform or any transaction being conducted on the Platform, or with any other person\u2019s use of the Platform. The Users may not use the Platform or any of its content for any purpose that is unlawful or prohibited by these Terms of Service. 3.5 The Users shall at all times ensure full compliance with the applicable provisions, as amended from time to time, of (a) the Information Technology Act, 2000 and the rules thereunder; (b) all applicable domestic laws, rules and regulations (including the provisions of any applicable exchange control laws or regulations in force); and (c) international laws, foreign exchange laws, statutes, ordinances and regulations (including, but not limited to goods and service tax, income tax, central excise, custom duty, local levies) regarding the use of the Platform and listing, purchase, solicitation of offers to purchase, and sale of Products or Services. The Users shall not engage in any transaction which is prohibited by the provisions of any applicable law including exchange control laws or regulations for the time being in force. 3.6 In order to allow the Company to use the information supplied by the Users, without violating any rights or any laws, the Users agree to grant the Company a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable (through multiple tiers) right to exercise the copyright, publicity, database rights or any other rights. The Company will only use the information in accordance with these Terms of Service and Privacy Policy (defined below) applicable to use of the Platform. 3.7 The Company reserves the right, but has no obligation, to monitor the materials posted on the Platform. The Company shall have the right to remove or edit any content that in its sole discretion violates, or is alleged to violate, any applicable law or either the spirit of these Terms of Service. In no event shall the Company assume any responsibility or liability for any content posted or for any claims, damages or losses resulting from use of content and/or appearance of content on the Platform. 3.8 The Company shall have all the rights to take necessary action and claim damages that may occur due to the Users involvement/participation in any way either on their own or through group/s of people, intentionally or unintentionally in hacking. 3.9 The Users understand that their content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. The Users understand and acknowledge that the use of the Platform requires internet connectivity and telecommunication links. The Users shall bear the costs incurred to access and use the Platform and avail the Services, and the Company shall not, under any circumstances whatsoever, be responsible or liable for such costs. 4 Accuracy, Completeness and Timeliness of Information 4.1 The Company is not responsible for any inaccuracy, incompleteness or outdated information made available on the Platform, either provided by the Users or otherwise. The material on the Platform is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. The Users agree that, the Company does not own any responsibility or obligation whatsoever towards either ensuring the accuracy of the information provided by the Users. Any reliance on the material on the Platform is at the Users own risk. 4.2 The Platform may contain certain historical information. Historical information, necessarily, is not current and is provided for the purpose of reference only. The Company reserves the right to modify the contents of the Platform at any time, but has no obligation to update any information on the Platform. The Users agree that it is their responsibility to monitor changes to the Platform. 4.3 Occasionally there may be information on the Platform that contains typographical errors, inaccuracies or omissions that may relate to information pertaining to the Products, pricing, promotions, offers, Delivery Charges, transit times and availability. The Company reserves the right to correct any errors, inaccuracies or omissions, and to change or update information if any information on the Platform is inaccurate at any time without prior notice. 4.4 The Company undertake no obligation to update, amend or clarify information in the Platform, including without limitation, pricing information, except as required by law. No specified update or refresh date applied to the Platform, should be taken to indicate that all information on the Platform or pertaining to the Services have been modified or updated. 5 Disclaimers of Warranties and Limitation of Liability 5.1 The Company endeavours to make the Platform available, as far as possible, at all times. However, the Company does not represent that access to the Platform will be uninterrupted, timely, error free, free of viruses or other harmful components or that such defects will be corrected. 5.2 The Company does not warrant that the Platform will be compatible with all hardware and software which is used by the Users. The Company shall not be liable for damage to, or viruses or other code that may affect, any equipment, software, data or other property as a result of downloading and installing the Platform. 5.3 The Company does not represent or warranty that the information available on the Platform will be correct, accurate or otherwise reliable. 5.4 The Platform may be under constant upgrades, and some functions and features may not be fully operational. 5.5 The Platform is provided on an \u201cas is\u201d and \u201cas available\u201d basis. The Company expressly disclaims all warranties of any kind, whether express or implied with respect to the records and other data that is made available by it to the Users. 5.6 The Company makes no representation or warranty that: (i) the Platform will be accurate or reliable; (ii) the Platform will be uninterrupted, timely, secure, or error-free; (iii) any information that may be obtained from the use of the Platform will be accurate, timely or complete; or (iv) any errors in any software used on the site or in connection with the Platform will be corrected. 5.7 THE COMPANY DOES NOT REPRESENT ANY OF THE USERS, AND DISCLAIMS ANY LIABILITY WITH RESPECT TO ANY ERROR OR INCONSISTENCY WITH RESPECT TO ANY INFORMATION RELATING TO SUCH USERS DISPLAYED ON THE SITE OR WITH RESPECT TO THE SERVICES PROVIDED. ANY INFORMATION PROVIDED WITH RESPECT TO THE USERS AND FEES PAYABLE IS SUBJECT TO CHANGE WITHOUT NOTICE. ANY TRADEMARK, WORD MARK OR INTELLECTUAL PROPERTY OF ANY USERS BELONGS TO SUCH USERS ALONE, AND THE COMPANY HAS NO RIGHT OR CLAIM OVER THE SAME. 5.8 The Company is not responsible and will have no liability for: (i) any content or Products provided by any persons or entities other than the Company; (ii) damages of any kind that result from the downloading of any data or any other materials on the site or through the Platform; or (iii) the failures of the internet or any data or telecommunications equipment, system or network used in connection with the Platform. 5.9 The Company shall not be liable for: any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation any financial losses, loss of data, replacement costs, or any similar damages, whether based in contract, tort, strict liability or otherwise, arising from the use of the Platform, or for any other claim related in any way to the use of the Platform, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Platform or any content posted, transmitted, or otherwise made available via the Platform, even if advised of their possibility. 5.10 The Company shall not be liable to anyone else for any losses or injury arising out of or relating to the information provided on the Platform. In no event will the Company or its employees, affiliates, authors or agents be liable to the Users or any third party for any decision made or action taken by the Users. 5.11 The Company shall not be liable for any acts or omissions on part of the Vendor(s) including deficiency in service, wrong delivery of order / order mismatch, quality, incorrect pricing, deficient quantity, time taken to prepare or deliver the order, etc. 6 Privacy All information about Users that are collected, stored or transmitted in any way on the Platform, including any registration information, is subject to our Privacy Policy (the \u201cPrivacy Policy\u201d), located at https://www.itcportal.com/about-itc/policies/privacy- policy.aspx 7 Third Party Links 7.1 Certain content, advertisements available via the Platform may include materials from third-parties. 7.2 Third-party links on the Platform may direct the User to third-party websites that are not affiliated with the Company. The Company is not responsible for examining or evaluating the content or accuracy and does not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, Products, or services of third-parties. 7.3 The Company is not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party\u2019s policies and practices and make sure to understand them before engaging in any transactions. Complaints, claims, concerns, or questions regarding third-party Products should be directed to the third-party. 8 Intellectual property 8.1 The Company is either the owner of intellectual property rights or have the non-exclusive, worldwide, perpetual, irrevocable, royalty free, sub-licensable (through multiple tiers) right to exercise the intellectual property, on the Platform, and on the material published on it. 8.2 The Users must not modify the paper or digital copies of any materials printed or downloaded in any way, and they must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text. 8.3 The Users must not use any part of the materials on the Platform for commercial purposes without obtaining a licence to do so from the Company. 9 Indemnification The Users agree to indemnify, defend and hold harmless the Company, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys\u2019 fees, made by any third-party due to or arising out of a breach of these Terms of Service or the documents they incorporate by reference, or violation of any law or the rights of a third-party. 10 Severability In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions. 11 Independent Contractors Nothing herein contained shall constitute or be deemed to constitute a relationship of agency, partnership, joint venture or employment between the Delivery Partners, the Users, including the Vendor Partners, and the Company. 12 Termination 12.1 These Terms of Service are effective unless and until terminated by either the Company or the Users. The Users may terminate these Terms of Service at any time by notifying the Company that the Users no longer wish to use the Platform or the Services, or when the User cease using the Platform. 12.2 If in the Company\u2019s sole judgment the Users fail, or they suspects that the Users have failed, to comply with any term or provision of these Terms of Service, the Company may also terminate their access to the Platform, or cease the provision of the Services at any time without notice and the Users will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny the Users access to the Platform or the Services (or any part thereof). 13 Entire Agreement 13.1 These Terms of Service and any policies or operating rules posted by the Company on the Platform constitute the entire agreement and understanding between the Users and the Company with respect to the Platform, and supersede any prior or contemporaneous agreements, communications and proposals, whether oral or written, between the Users and the Company (including, but not limited to, any prior versions of the Terms of Service). 13.2 Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party. 14 Waiver The failure of the Company to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision. 15 Governing law and dispute resolution These Terms of Service are governed by the laws of India. Any action, suit, or other legal proceeding, which is commenced to resolve any matter arising under or relating to this Platform, shall be subject to the jurisdiction of the courts at Bangalore, India. 16 Contact Information All notices and enquiries to the Company can be addressed to ITC CARES AT P.O. BOX NO. 592 BENGALURU - 560005 itccares@itc.in 1800-425 444 444 17 Grievance Redressal 17.1 All grievances with the Company with respect to the Products, Services or any other term of these Terms and Services can be addressed to ITC CARES AT P.O. BOX NO. 592 BENGALURU \u2013 560005 itccares@itc.in 1800-425 444 444 17.2 In the event the User\u2019s grievances are not suitably resolved or with respect to the alleged breach of any statutory compliances, such grievances can be escalated to the Head of Corporate Human Resources, ITC Limited, 37 JL Nehru Road, Kolkata \u2013 700071 webmaster@itc.in +913322889371 9AM - 5PM (on all working days) 18 Right to use the backgrounds 18.1 The Company grants the User an irrevocable, non-exclusive, worldwide right to download, and use the backgrounds available as part of Din Khatam Fantasy Shuru Collection for free for personal use only and not for any commercial use whatsoever. This right does not include the right to compile the downloads from the Company to replicate a similar or competing service. However, the right does not include the right to use: 18.1.1 Trademarks, logos or brands that appear in backgrounds 18.1.2 Works of art or authorship that appear in the backgrounds 18.1.3 Images of people or animals if they are recognizable in the backgrounds 18.2 In addition to the above Terms and Conditions, the User shall not: 18.2.1 Incorporate the background in a logo, trademark or service mark, advertising or promotional material 18.2.2 Reproduce the background with any design, editorial piece, advertisement or any work product unless agreed in writing by the Company 18.2.3 Use the background in pornographic, obscene defamatory, misleading, unlawful or offensive manner, whether directly or in context or by juxtaposition with other materials. 18.2.4 Use the background for any illegal activity, including but not limited to fraud, impersonation, solicitation, defamation or disinformation. 18.2.5 Alter, manipulate, add, crop or delete the background or any part of it. The backgrounds must not be made available for use or distribution separately or detached from this Platform. 18.2.6 The backgrounds shall not be made available for downloading separately or in a format designed or intended for storage or re-use by the Users. The backgrounds must not be made available on any third-party website or any other link hosted on a third-party website. 18.3 Permission to download the backgrounds has been given on the permission that they shall not be used for any other purpose other than the purpose for which they are made available. Any subsequent use, which has not been explicitly authorized by the Company is forbidden. This includes the storage of the background on any media for any purpose other than the above stated use. 18.4 Any use of backgrounds not abiding to these Terms and Conditions shall be considered as breach of these and the User shall be solely held responsible for the same. The User agrees to indemnify and hold the Company harmless against any claims, damages, losses, expenses or costs (including any direct, indirect or consequential losses, loss of profit and loss of reputation and all interest, penalties and legal costs and other expenses) arising in any manner whatsoever from or as a result of unauthorised use of any background made available on this Platform, or any other breach by User of any obligations under these Terms and Conditions. 18.5 The Company shall have no liability for any losses or damages which may be suffered by the User (or any person claiming under them) whether the same are suffered directly or indirectly or are immediate or consequential, and whether the same arise in contract, tort (including negligence) or otherwise howsoever including: (a) loss of profits; (b) loss of business opportunity; (c) loss of contracts; (d) loss of goodwill; or (e) loss arising from damaged, corrupted or lost data"
+        },
+        {
+          "change_type": "deletion",
+          "text": ". Follow us on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "."
+        }
+      ],
+      "similarity_score": 0.99999342140164
+    }
+  ]
+}
