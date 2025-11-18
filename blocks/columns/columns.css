@@ -177,9 +177,9 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center; /* Vertically center content */
+  align-items: center;
   gap: 48px;
-  min-height: 120px;   /* Adjust as needed for compactness */
+  min-height: 120px;
 }
 
 .columns.columns-2-cols > div > div:first-child {
@@ -241,4 +241,49 @@
   color: #fff;
   font-size: 0.875rem;
   margin: 0;
+}
+
+
+.columns.columns8.block.columns-2-cols > div {
+  display: flex;
+  align-items: center;
+  background: #f4ecdf;
+  padding: 12px 20px 10px 10px;
+  height: 60px;
+  box-sizing: border-box;
+  width: fit-content;
+  margin: 0 auto;
+  border-radius: 0;
+}
+
+/* Image column */
+.columns-img-col {
+  display: flex;
+  align-items: center;
+}
+
+.columns-img-col img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-right: 20px;
+}
+
+/* Text column */
+.columns.columns8.block.columns-2-cols > div > div:not(.columns-img-col) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #37312b;
+}
+
+.columns.columns8.block.columns-2-cols > div > div:not(.columns-img-col) p:first-child {
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.columns.columns8.block.columns-2-cols > div > div:not(.columns-img-col) p:not(:first-child) {
+  font-size: 12px;
+  font-weight: normal;
 }
