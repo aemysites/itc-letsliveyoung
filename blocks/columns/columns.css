@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -30,4 +31,40 @@
     flex: 1;
     order: unset;
   }
+}
+
+
+.columns-2-cols > div {
+  display: flex;
+  flex-direction: row;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.columns-2-cols > div > div:first-child {
+  flex: 1 1 0;
+  background: url('YOUR_IMAGE_URL_HERE') center center/cover no-repeat;
+  min-height: 240px;
+}
+
+.columns-2-cols > div > div:last-child {
+  flex: 1 1 0;
+  background: #F6EFE3;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.columns-2-cols > div > div:last-child p:first-child {
+  font-size: 26px;
+  font-weight: bold;
+  color: #232323;
+  margin-bottom: 12px;
+}
+
+.columns-2-cols > div > div:last-child p:not(:first-child) {
+  font-size: 16px;
+  color: #232323;
+  line-height: 1.5;
 }
