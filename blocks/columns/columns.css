@@ -288,7 +288,7 @@
 
 
 body {
-  background: none; /* Remove purple bars */
+  background: none;
 }
 
 .columns.columns12.block.columns-3-cols {
@@ -297,7 +297,6 @@ body {
   padding: 0 24px;
 }
 
-/* Flexbox for horizontal card arrangement */
 .columns.columns12.block.columns-3-cols > div {
   display: flex;
   flex-direction: row;
@@ -306,7 +305,6 @@ body {
   align-items: center;
 }
 
-/* Card styling */
 .columns.columns12.block.columns-3-cols > div > div {
   width: 240px;
   aspect-ratio: 9 / 16;
@@ -318,7 +316,6 @@ body {
   min-width: 0;
 }
 
-/* Overlays */
 .columns.columns12.block.columns-3-cols > div > div::after {
   content: '';
   position: absolute;
@@ -348,5 +345,107 @@ body {
     width: 90vw;
     max-width: 360px;
     margin: 0 auto;
+  }
+}
+
+
+.columns.columns14 {
+  box-sizing: border-box;
+  border-radius: 16px 0 0 16px;
+  overflow: hidden;
+  box-shadow: 0 6px 32px rgb(0 0 0 / 7%);
+  background: transparent;
+  max-width: 920px;
+  margin: 40px auto;
+  width: 100%;
+}
+
+.columns.columns14 div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 320px;
+  background: transparent;
+  width: 100%;
+}
+
+@media (width <= 700px) {
+  .columns.columns14 div {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    min-height: 0;
+    width: 100%;
+  }
+}
+
+.columns.columns14 div div:first-child {
+  background: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80') center center / cover no-repeat;
+  min-height: 320px;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-radius: 16px 0 0 16px;
+  background-color: #e8ddd1;
+  box-sizing: border-box;
+  display: block;
+}
+
+@media (width <= 700px) {
+  .columns.columns14 div div:first-child {
+    border-radius: 16px 16px 0 0;
+    min-height: 180px;
+  }
+}
+
+.columns.columns14 div div:not(:first-child) {
+  background: #FAF1E6;
+  padding: 36px 28px 32px 32px;
+  min-height: 320px;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+
+@media (width <= 700px) {
+  .columns.columns14 div div:not(:first-child) {
+    border-radius: 0 0 16px 16px;
+    min-height: 180px;
+    padding: 24px 16px;
+  }
+}
+
+.columns.columns14 div div:not(:first-child) p:first-child {
+  margin: 0 0 16px;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #222;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+}
+
+.columns.columns14 div div:not(:first-child) p:not(:first-child) {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #444;
+  line-height: 1.6;
+  letter-spacing: 0;
+}
+
+.columns.columns14 div div:first-child img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 16px 0 0 16px;
+  display: block;
+}
+
+@media (width <= 700px) {
+  .columns.columns14 div div:first-child img {
+    border-radius: 16px 16px 0 0;
   }
 }
